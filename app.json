@@ -6,7 +6,7 @@
     "odk",
     "forms"
   ],
-  "repository": "https://github.com/digidem/simple-odk-custom",
+  "repository": "https://github.com/bensonik/odk-server",
   "env": {
     "FORM_STORE": {
         "description": "The storage backend to use for form submissions, one of `github`, `gist`, or `firebase`"
